@@ -1,0 +1,2 @@
+# https-1drv.ms-p-c-bfa75b7ee1802bd4-ERIaBdCkyvdLiy1KLaG8b80Bx_5X-2r7AZe_KSgRoulK9Q-e-7PDr5h
+This project is a web-based presentation titled "Arranging a List" by Rishabh Patel (25MIM10131). It explores sorting strategies in Python, contrasting the productivity of built-in methods (.sort()) with the algorithmic depth of Bubble Sort. The slides are built using HTML and CSS for a responsive, dark-mode experience.
